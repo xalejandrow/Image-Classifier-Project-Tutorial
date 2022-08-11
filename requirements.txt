@@ -1,0 +1,21 @@
+# Base ----------------------------------------
+sqlalchemy
+pymysql
+pandas
+python-dotenv
+psycopg2-binary
+requests
+
+numpy
+opencv-python
+matplotlib
+ipyleaflet
+sympy
+
+# Machine learning ----------------------------
+sklearn
+seaborn
+plotly
+folium
+flask
+pickle5
